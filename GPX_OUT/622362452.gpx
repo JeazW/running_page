@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from joyrun</name>
+    <trkseg>
+      <trkpt lat="33.569161" lon="113.988548">
+        <time>2021-10-27T23:36:01Z</time>
+      </trkpt>
+      <trkpt lat="33.569161" lon="113.988548">
+        <time>2021-10-27T23:36:06Z</time>
+      </trkpt>
+      <trkpt lat="33.569161" lon="113.988548">
+        <time>2021-10-27T23:36:11Z</time>
+      </trkpt>
+      <trkpt lat="33.569161" lon="113.988548">
+        <time>2021-10-27T23:36:16Z</time>
+      </trkpt>
+      <trkpt lat="33.569038" lon="113.988984">
+        <time>2021-10-27T23:36:21Z</time>
+      </trkpt>
+      <trkpt lat="33.568915" lon="113.98942">
+        <time>2021-10-27T23:36:26Z</time>
+      </trkpt>
+      <trkpt lat="33.569238" lon="113.989531">
+        <time>2021-10-27T23:36:31Z</time>
+      </trkpt>
+      <trkpt lat="33.569527" lon="113.989502">
+        <time>2021-10-27T23:38:29Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
